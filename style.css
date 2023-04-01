@@ -1,0 +1,64 @@
+body{
+    background-color: white;
+}
+p
+{
+    color: red;
+    letter-spacing: 3px;
+    font-size: 15px;
+}
+.mobilenet
+{
+    letter-spacing: 2px;
+}
+
+.google_lens
+{
+    letter-spacing: 2px;
+}
+
+.img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+b
+{
+    color: darkblue;
+}
+
+.white
+{
+    color: white;
+}
+.test_image_and_result
+{
+    background-color: darkgray;
+    margin-top: 15px;
+    border-radius: 10px;
+    width: 99%;
+    box-shadow: 1px 1px 25px grey;
+    margin-bottom: 15px;
+}
+span{
+    letter-spacing: 1px;
+}
+span
+{
+    color: red;
+    letter-spacing: 1px;
+    font-size: large;
+    font-family: 'Roboto Slab' , serif;
+}
+.copy_right_footer
+{
+    position: fixed;
+    border-radius: 20px;
+    background-color:coral;
+    bottom: 0;
+    line-height: 2;
+    text-align: center;
+    width: 95%;
+}
